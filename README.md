@@ -41,7 +41,7 @@ This dataset contains booking information for a city hotel and a resort hotel. I
 
 Total number of rows in data: 119390
 Total number of columns: 32
-
+```
 Data Cleaning and Feature Engineering
 (1) Removing Duplicate rows-
 All duplicate rows were dropped.
@@ -51,7 +51,7 @@ Null values replaced with zeros.
 
 (3) Creating new columns-
 Created new column total_stay by adding stays_in_weekend_nights+stays_in_week_nights.
-
+```
 # Exploratory Data Analysis:
 Performed EDA and tried answering the following questions:
 ```
@@ -87,6 +87,7 @@ Performed EDA and tried answering the following questions:
  Q29)find monthly average lead time for each hotel?
 ```
 # Graphs and Charts used for data visualization:
+```
 Mainly performed using Matplotlib and Seaborn library and the following graph and plots had been used:
 -Bar Plot.
 -Histogram.
@@ -95,7 +96,7 @@ Mainly performed using Matplotlib and Seaborn library and the following graph an
 -Kde plot.
 -Box Plot.
 -Count Plot.
-
+```
 # Insigts found :
 ```
 1)the top countries which vistited most to this hotels are'PRT','GBR','FRA','ESP','DEU','ITA','IRL','BEL','BRA','NLT.
